@@ -2,10 +2,10 @@ import tweepy
 import csv
 
 #Twitter API credentials
-consumer_key = "w3RFCtjqIMhbghAKOlMr5S87R"
-consumer_secret = "u2vvQipuq8Lj4KETw4Gv485ecrpAGpiWEuVDzzYuU4IQCbKHYK"
-access_key = "803829949459296256-eKUb1zZVpu5Ik0J82fDgy2x3pDz0Vf9"
-access_secret = "1euzY4XHpBNh1BeYzO7GlBCHtD80nopB4C8DqDssSzXlb"
+consumer_key = "wXXXXXXXXXXXXXX"
+consumer_secret = "uXXXXXXXXXXXXXXXXXXXXXXX"
+access_key = "80382XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_secret = "1euzY4XHpXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 #screen_name = "realDonaldTrump"
 
 def getalltweets(screen_name):
